@@ -1,6 +1,6 @@
 # 📊 Dashboard de Análise de Salários na Área de Dados
 
-![Dashboard Preview](https://raw.brendaschussler.com/vqrca/imersao-dados-python/main/dashboard_preview.png)
+![Dashboard Preview](https://github.com/brendaschussler/imersao-dados-python/blob/main/dashboard_preview.png)
 
 ## 🔍 Visão Geral
 Dashboard interativo que analisa salários na área de dados (Data Science, Análise de Dados, Engenharia de Dados) com filtros dinâmicos e visualizações interativas construído com Streamlit.
